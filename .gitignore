@@ -9,3 +9,5 @@ anaconda_projects/
 .DS_Store
 
 .env
+
+leaf-prisma-backend/secrets/
