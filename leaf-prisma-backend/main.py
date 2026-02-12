@@ -28,3 +28,4 @@ def read_root():
             "status": "Backend is Live!",
             "database": f"Connection Failed: {str(e)}"
         }
+    
